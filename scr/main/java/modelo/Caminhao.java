@@ -1,3 +1,5 @@
+package modelo;
+
 public class Caminhao extends Veiculo {
     private int eixos;
 

@@ -1,3 +1,10 @@
+package app;
+
+import modelo.Caminhao;
+import modelo.Moto;
+import modelo.Pacote;
+import modelo.Rota;
+
 public class Principal {
 
     public static void main(String[] args) {

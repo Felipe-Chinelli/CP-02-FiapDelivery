@@ -1,3 +1,5 @@
+package modelo;
+
 public abstract class Veiculo {
     private String placa;
     private double capacidade;

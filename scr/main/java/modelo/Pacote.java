@@ -1,3 +1,5 @@
+package modelo;
+
 public class Pacote {
     private String codigo;
     private double peso;

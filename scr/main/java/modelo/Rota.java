@@ -1,3 +1,5 @@
+package modelo;
+
 public class Rota {
     private Pacote pacote;
     private Veiculo veiculo;
